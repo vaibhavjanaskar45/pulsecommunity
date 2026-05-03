@@ -1,0 +1,87 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+############################
+# Environment Variables
+############################
+.env
+.env.*
+*.env
+
+############################
+# Frontend (React / Node)
+############################
+node_modules/
+.pnp/
+.pnp.js
+
+build/
+dist/
+.next/
+out/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+############################
+# Backend (Spring Boot / Java)
+############################
+target/
+*.jar
+*.war
+*.ear
+
+############################
+# Testing & Coverage
+############################
+coverage/
+*.lcov
+
+############################
+# IDE / Editors
+############################
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse / STS
+.project
+.classpath
+.settings/
+.apt_generated/
+.springBeans
+.sts4-cache/
+
+############################
+# OS Files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Logs
+############################
+logs/
+*.log
+
+############################
+# Security / Keys
+############################
+*.pem
+*.key
+*.crt
+
+############################
+# Misc
+############################
+*.tmp
+*.swp
