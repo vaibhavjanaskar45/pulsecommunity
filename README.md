@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/vaibhavjanaskar45/pulsecommunity/main/pcfrontend/public/pulsecommunity-icon.png" alt="PulseCommunity Logo" width="320"/>
+  <img src="https://raw.githubusercontent.com/vaibhavjanaskar45/pulsecommunity/main/pcfrontend/public/pulsecommunity-icon.png" alt="PulseCommunity Logo" width="520"/>
 </p>
 
 
